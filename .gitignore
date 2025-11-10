@@ -1,3 +1,3 @@
 im.db
-zippedData/*.zip
-zippedData/*.gz
+datasets/*.zip
+datasets/*.gz
